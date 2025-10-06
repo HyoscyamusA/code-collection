@@ -1,5 +1,5 @@
 {
-  "name": "shop-admin",
+  "name": "vue-todo-demo",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,12 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "element-plus": "^2.11.4",
     "vue": "^3.5.22"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^6.0.1",
-    "vite": "^7.1.7",
-    "vite-plugin-windicss": "^1.9.4"
+    "vite": "^7.1.7"
   }
 }
