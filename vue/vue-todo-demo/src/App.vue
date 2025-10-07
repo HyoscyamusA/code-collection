@@ -23,7 +23,9 @@ const deleteTask = (id) => {
 
 // 切换完成状态
 const toggleTask = (task) => {
-  task.done = !task.done
+  task.done = !task.done,
+  console.log("1")
+
 }
 </script>
 
@@ -38,7 +40,7 @@ const toggleTask = (task) => {
     <!-- 任务列表 -->
     <ul>
       <li v-for="task in tasks" :key="task.id">
-        <input type="checkbox" v-model="task.done" @change="toggleTask(task)" />
+        <input type="checkbox" v-model="task.done" />
         <span :style="{ textDecoration: task.done ? 'line-through' : 'none' }">
           {{ task.text }}
         </span>
