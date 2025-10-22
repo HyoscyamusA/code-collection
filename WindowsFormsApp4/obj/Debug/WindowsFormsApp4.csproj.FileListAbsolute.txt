@@ -1,0 +1,6 @@
+D:\Users\huawei\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+D:\Users\huawei\source\repos\WindowsFormsApp4\obj\Debug\TextEditorDemo.Form1.resources
+D:\Users\huawei\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\Users\huawei\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+D:\Users\huawei\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+D:\Users\huawei\source\repos\WindowsFormsApp4\obj\Debug\TextEditor.Form1.resources
